@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
 
-
-
 int min(int arr[],int count)
 {
   int minn=arr[0];
