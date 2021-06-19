@@ -1,3 +1,5 @@
+/* Enter your solutions in this file */
+#include <stdio.h>
 int min(int arr[],int count)
 {
   int minn=arr[0];
